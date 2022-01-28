@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-**E-commerce Developer ⚡**
-
-![ZOLTANFODOR](https://cdn.shopify.com/s/files/1/0592/7226/5906/files/Green_and_White_Technology_LinkedIn_Banner.png?v=1643315878)
+![ZOLTANFODOR](https://cdn.shopify.com/s/files/1/0592/7226/5906/files/Green_and_White_Technology_LinkedIn_Banner_1.png?v=1643407934)
 
 <!--
 **ritmillio/ritmillio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
