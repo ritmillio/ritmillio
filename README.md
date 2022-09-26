@@ -2,6 +2,8 @@
 
 ![ZOLTANFODOR](https://cdn.shopify.com/s/files/1/0592/7226/5906/files/Green_and_White_Technology_LinkedIn_Banner_1.png?v=1643407934)
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=z35eh0oli5z5qokmsiaq6pm54&cover_image=true&theme=default&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
 <!--
 **ritmillio/ritmillio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
