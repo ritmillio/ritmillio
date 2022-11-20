@@ -2,6 +2,8 @@
 
 ![ZOLTANFODOR](https://cdn.shopify.com/s/files/1/0592/7226/5906/files/Green_and_White_Technology_LinkedIn_Banner_1.png?v=1643407934)
 
+<img height="190" align="center" src="https://github-readme-stats.vercel.app/api?username=ritmillio&count_private=true&include_all_commits=true&theme=onedark" alt="ritmillio" />
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=z35eh0oli5z5qokmsiaq6pm54&cover_image=true&theme=default&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 <!--
