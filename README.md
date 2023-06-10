@@ -44,4 +44,4 @@ me.workWithSwift()
 
 You can buy me a coffee [here](https://www.buymeacoffee.com/ritmillio)
 
-I'm currently open for freelance cross-platform React-Native development. Feel free to reach out if you think we could work together!
+I'm currently open for freelance cross-platform React-Native development or Swift native iOS, macOS, tvOS, watchOS Development. Feel free to reach out if you think we could work together!
