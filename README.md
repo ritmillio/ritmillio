@@ -39,7 +39,7 @@ me.workWithSwift()
 -   [LinkedIn](https://www.linkedin.com/in/zoltan-fodor-007/)
 -   [Linktree](https://linktr.zoltanfodor.dev/)
 -   [Personal Website](https://www.zoltanfodor.dev/)
-
+-   [Medium](https://medium.com/@zoltan_fodor_)
 ## ☕ Want to support me?
 
 You can buy me a coffee [here](https://www.buymeacoffee.com/ritmillio)
