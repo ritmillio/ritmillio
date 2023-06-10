@@ -1,22 +1,47 @@
-### Hi there 👋
+# Hi there, I'm Zoltan Fodor! 👋📱🐧
 
-![ZOLTANFODOR](https://cdn.shopify.com/s/files/1/0592/7226/5906/files/Green_and_White_Technology_LinkedIn_Banner_1.png?v=1643407934)
+``` swift
+class ritmillio: Developer {
+    var name = "Zoltan Fodor"
+    var status = "Mobile Lead"
+    var skills = ["HTML5", "CSS3", "Tailwindcss", "TypeScript", "JavaScript", "React", "React Native", "Swift", "Liquid", "Shopify"]
+    var areasOfInterest = ["Open-source contribution", "cross-platform mobile development", "native iOS/macOS/watch-tvOS Development"]
+    var availableForWork = ["Cross-platform React-Native development", "Native Swift development"]
 
-<img height="190" align="center" src="https://github-readme-stats.vercel.app/api?username=ritmillio&count_private=true&include_all_commits=true&theme=onedark" alt="ritmillio" />
+    func code() {
+        print("Developing amazing cross-platform React-native apps!")
+        print("Also, I'm currently available for \(availableForWork[0]) and \(availableForWork[1]).")
+    }
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=z35eh0oli5z5qokmsiaq6pm54&cover_image=true&theme=default&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+    func contributeToOpenSource() {
+        print("Contributing to the open-source community!")
+    }
 
-<!--
-**ritmillio/ritmillio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    func developShopifyStorefront() {
+        print("Developing custom Shopify shops and storefronts!")
+    }
 
-Here are some ideas to get you started:
+    func workWithSwift() {
+        print("Working on iOS, macOS and WatchOS development using Swift!")
+    }
+}
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+var me = ZoltanFodor()
+
+me.code()
+me.contributeToOpenSource()
+me.developShopifyStorefront()
+me.workWithSwift()
+```
+
+## 🌐 Find me around the web:
+
+-   [LinkedIn](https://www.linkedin.com/in/zoltan-fodor-007/)
+-   [Linktree](https://linktr.zoltanfodor.dev/)
+-   [Personal Website](https://www.zoltanfodor.dev/)
+
+## ☕ Want to support me?
+
+You can buy me a coffee [here](https://www.buymeacoffee.com/ritmillio)
+
+I'm currently open for freelance cross-platform React-Native development. Feel free to reach out if you think we could work together!
