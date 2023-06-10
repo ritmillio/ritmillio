@@ -1,7 +1,7 @@
 # Hi there, I'm Zoltan Fodor! 👋📱🐧
 
 ``` swift
-class ritmillio: Developer {
+class ritmillio {
     var name = "Zoltan Fodor"
     var status = "Mobile Lead"
     var skills = ["HTML5", "CSS3", "Tailwindcss", "TypeScript", "JavaScript", "React", "React Native", "Swift", "Liquid", "Shopify"]
@@ -26,7 +26,7 @@ class ritmillio: Developer {
     }
 }
 
-var me = ZoltanFodor()
+var me = ritmillio()
 
 me.code()
 me.contributeToOpenSource()
