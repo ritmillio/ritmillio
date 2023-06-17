@@ -15,14 +15,14 @@ I am currently a Mobile Lead at Munch, specialised in cross-platform mobile and 
 - Swift
 - Liquid Template Language
 
-## Areas of Interest 🌱
+## 🌱 Areas of Interest 
 
 - Open-source contribution
 - Cross-platform mobile development
 - Frontend-development
 - Swift development (macOS, tvOS, watchOS)
 
-## Available For Work 💼
+## 💼 Available For Work 
 
 - Cross-platform React-Native development
 - Next.js development
