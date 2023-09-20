@@ -1,42 +1,33 @@
-# Hi there, I'm Zoltan Fodor! 👋📱🐧
+# HELLO THERE! 
 
-I am currently a Mobile Lead at Munch, specialised in cross-platform mobile and frontend development. You'll find me most of the time developing amazing SSR sites with Next.js and cross-platform React-native apps!
+### 🎨 What I'm All About
+-   **Next-Level Web**: Crafting captivating Next.js sites that are both fast and fabulous with awesome animations.
+-   **Cross-Platform Magic**: From iOS to Android, I weave React-Native spells for apps that stand out.
+    
 
-## Skills 🛠️
+### 🌟 Areas That Pique My Curiosity
 
-- HTML5
-- CSS3
-- Tailwindcss
-- JavaScript
-- TypeScript
-- React
-- Next.js
-- React Native
-- Swift
-- Liquid Template Language
+-   Diving deep into open-source and contributing to the community.
+    
+-   Exploring the frontiers of JS/TS
 
-## 🌱 Areas of Interest 
 
-- Open-source contribution
-- Cross-platform mobile development
-- Frontend-development
-- Swift development (macOS, tvOS, watchOS)
+### 🚀 Let's Collaborate at Vador Digital
 
-## 💼 Available For Work 
+As the co-founder of [Vador Digital](https://vadordigital.com/), we're on a mission to redefine the digital landscape. From pixel-perfect websites to interactive e-commerce platforms and exceptional React-Native apps powered by Expo, we're the dream team you've been searching for.
+    
 
-- Cross-platform React-Native development
-- Next.js development
-- Swift App Development
+### 🌍 Where Else To Find Me
 
-## 🌐 Find me around the web:
+-   🌐 [Zoltan's Digital Space](https://www.zoltanfodor.dev/)
+    
+-   💼 [Connect on LinkedIn](https://www.linkedin.com/in/zoltan-fodor-007/)
+    
+-   🌳 [Discover more at Linktree](https://linktr.zoltanfodor.dev/)
+    
+-   ✍️ [My Thoughts on Medium](https://medium.com/@zoltan_fodor_)
+    
 
-- [LinkedIn](https://www.linkedin.com/in/zoltan-fodor-007/)
-- [Linktree](https://linktr.zoltanfodor.dev/)
-- [Personal Website](https://www.zoltanfodor.dev/)
-- [Medium](https://medium.com/@zoltan_fodor_)
+----------
 
-## ☕ Want to support me?
-
-You can buy me a coffee [here](https://www.buymeacoffee.com/ritmillio)
-
-I'm always open for freelance web development and cross-platform React-Native development. Feel free to reach out if you think we could work together!
+Feel free to reach out, collaborate, or just say hi! Here's to crafting phenomenal digital experiences together! 🥂
