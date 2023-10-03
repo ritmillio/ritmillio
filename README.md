@@ -1,6 +1,7 @@
 # HELLO THERE! 
 
 ### 🎨 What I'm All About
+- E-commerce Excellence: Specializing in Shopify development to bring brands alive online.
 -   **Next-Level Web**: Crafting captivating Next.js sites that are both fast and fabulous with awesome animations.
 -   **Cross-Platform Magic**: From iOS to Android, I weave React-Native spells for apps that stand out.
     
